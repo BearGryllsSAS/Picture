@@ -122,4 +122,3 @@
 [122](one/122.md)  
 [123](one/123.md)  
 [124](one/124.md)
-[sum](one/sum.md)
